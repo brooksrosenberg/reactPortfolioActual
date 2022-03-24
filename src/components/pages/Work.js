@@ -1,5 +1,6 @@
 import './work.css'
-import './images'
+import workImage from './images/carEzScreenshot.png'
+
 import React from "react";
 
 export default function Work() {
@@ -11,7 +12,7 @@ export default function Work() {
           <figure>
             <a href="https://desolate-springs-51329.herokuapp.com">
               <img
-                src = './images/carEzScreenshot.png'
+                src = {workImage}
                 alt="CarEz"
             
               ></img>
