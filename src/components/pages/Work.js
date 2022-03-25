@@ -20,8 +20,9 @@ export default function Work() {
             </a>
           </figure>{" "}
           CarEz: This fullstack application is a website that allows users to
-          create an account and interact on a car forum by making posts for a
-          variety of car models
+          create accounts and interact on a car forum by making posts for a
+          different car models. Click on the phto to visit this project or <button class="button" ><a
+                            href='https://github.com/brooksrosenberg//carEzProject' alt='My Github'>Click Here to see GitHub</a></button>
         </p>
 
         <p className="assignment2">
@@ -35,7 +36,8 @@ export default function Work() {
             </a>
           </figure>{" "}
           Day Planner: This application is a daily scheduling website that lets
-          users build,change and save a daily planner for the work day
+          users build,change and save a daily planner for the work day. Click on the phto to visit this project or <button class="button" ><a
+                            href='https://github.com/brooksrosenberg/dayPlanner' alt='My Github'>Click Here to see GitHub</a></button>
         </p>
 
         <p className="assignment3">
@@ -50,7 +52,8 @@ export default function Work() {
           </figure>{" "}
           The Oracle Project: This application is a website that tells users
           their daily horoscope based off their star sign and a random fact of
-          the day
+          the day. Click on the phto to visit this project or <button class="button" ><a
+                            href='https://github.com/brooksrosenberg/theOracleProject' alt='My Github'>Click Here  to see GitHub</a></button>
         </p>
       </article>
     </div>
