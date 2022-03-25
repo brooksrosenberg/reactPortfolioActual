@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfilio-actual/static/css/main.083c033c.css",
-    "main.js": "/react-portfilio-actual/static/js/main.ddbbb78c.js",
-    "static/js/787.d12fde7a.chunk.js": "/react-portfilio-actual/static/js/787.d12fde7a.chunk.js",
-    "static/media/carEzScreenshot.png": "/react-portfilio-actual/static/media/carEzScreenshot.938087c9ac039a0f88d9.png",
-    "static/media/OracleProjectScreenshot.png": "/react-portfilio-actual/static/media/OracleProjectScreenshot.0a266aaba8e95fb6a483.png",
-    "static/media/dayplannerscreeenshot.png": "/react-portfilio-actual/static/media/dayplannerscreeenshot.856a8047d175a83dc5a9.png",
-    "static/media/personalAvatar.png": "/react-portfilio-actual/static/media/personalAvatar.e26a6be1f4fe350ca34d.png",
-    "index.html": "/react-portfilio-actual/index.html",
-    "main.083c033c.css.map": "/react-portfilio-actual/static/css/main.083c033c.css.map",
-    "main.ddbbb78c.js.map": "/react-portfilio-actual/static/js/main.ddbbb78c.js.map",
-    "787.d12fde7a.chunk.js.map": "/react-portfilio-actual/static/js/787.d12fde7a.chunk.js.map"
+    "main.css": "/reactPortfolioActual/static/css/main.083c033c.css",
+    "main.js": "/reactPortfolioActual/static/js/main.3641bde3.js",
+    "static/js/787.d12fde7a.chunk.js": "/reactPortfolioActual/static/js/787.d12fde7a.chunk.js",
+    "static/media/carEzScreenshot.png": "/reactPortfolioActual/static/media/carEzScreenshot.938087c9ac039a0f88d9.png",
+    "static/media/OracleProjectScreenshot.png": "/reactPortfolioActual/static/media/OracleProjectScreenshot.0a266aaba8e95fb6a483.png",
+    "static/media/dayplannerscreeenshot.png": "/reactPortfolioActual/static/media/dayplannerscreeenshot.856a8047d175a83dc5a9.png",
+    "static/media/personalAvatar.png": "/reactPortfolioActual/static/media/personalAvatar.e26a6be1f4fe350ca34d.png",
+    "index.html": "/reactPortfolioActual/index.html",
+    "main.083c033c.css.map": "/reactPortfolioActual/static/css/main.083c033c.css.map",
+    "main.3641bde3.js.map": "/reactPortfolioActual/static/js/main.3641bde3.js.map",
+    "787.d12fde7a.chunk.js.map": "/reactPortfolioActual/static/js/787.d12fde7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.083c033c.css",
-    "static/js/main.ddbbb78c.js"
+    "static/js/main.3641bde3.js"
   ]
 }
