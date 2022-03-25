@@ -7,8 +7,12 @@ export default function Resume() {
     <div className='resume'>
       <h1>Resume</h1>
         <p>
-         My Resume:<button className="button"><span><a
-          href="./assets/images/techResumeactual.pdf" alt='My Resume'>Click Here</a></span></button>
+         My Resume:<button className="button"><a
+          href="./assets/images/techResumeactual.pdf" alt='My Resume'>Click Here</a></button>
+          </p>
+          <h2> Proficiences</h2>
+          <p>
+          
           </p>
           
             

@@ -1,6 +1,7 @@
 import './work.css'
 import workImage from './images/carEzScreenshot.png'
-
+import workImage2 from './images/dayplannerscreeenshot.png'
+import workImage3 from './images/OracleProjectScreenshot.png'
 import React from "react";
 
 export default function Work() {
@@ -11,7 +12,7 @@ export default function Work() {
         <p className="assignment1">
           <figure>
             <a href="https://desolate-springs-51329.herokuapp.com">
-              <img
+              <img className='img1'
                 src = {workImage}
                 alt="CarEz"
             
@@ -26,8 +27,8 @@ export default function Work() {
         <p className="assignment2">
           <figure>
             <a href="https://brooksrosenberg.github.io/dayPlanner/">
-              <img
-                src="./images/dayplannerscreeenshot.png"
+              <img className='img2'
+                src={workImage2}
                 alt="Day Planner"
       
               ></img>
@@ -40,8 +41,8 @@ export default function Work() {
         <p className="assignment3">
           <figure>
             <a href="https://brooksrosenberg.github.io/theOracleProject/">
-              <img
-                src="./assets/images/OracleProjectScreenshot.png"
+              <img className='img3'
+                src={workImage3}
                 alt="The Oracle Project"
               
               ></img>

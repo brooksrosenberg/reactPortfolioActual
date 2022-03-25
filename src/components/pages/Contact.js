@@ -4,33 +4,35 @@ import React from "react";
 export default function Contact() {
   return (
     <div className="contact">
-      <h1>Contact Page</h1>
-      <h2>Contact</h2>
+      <h1>Contact Me</h1>
       <form>
-        <div class="form-group">
-          <label for="exampleFormControlTextarea1">Example textarea</label>
+   
+          <label for="exampleFormControlTextarea1">Name:</label>
           <textarea
-            class="form-control"
-            id="exampleFormControlTextarea1"
-            rows="1"
+            className="form-control"
+            
+            type="text"
           ></textarea>
-        </div>
-        <div class="form-group">
-          <label for="exampleFormControlTextarea1">Example textarea</label>
+       
+          <label for="exampleFormControlTextarea1">Email address:</label>
           <textarea
-            class="form-control"
-            id="exampleFormControlTextarea1"
-            rows="1"
+          className="form-control"
+            
+          type="email"
+            
           ></textarea>
-        </div>
-        <div class="form-group">
-          <label for="exampleFormControlTextarea1">Example textarea</label>
+    
+          <label for="exampleFormControlTextarea1">Message:</label>
           <textarea
-            class="form-control"
-            id="exampleFormControlTextarea1"
-            rows="3"
+            className="form-control"
+            
+            type="message"
           ></textarea>
-        </div>
+          <br></br>
+          <button className="button"
+       alt='submit' type='submit'>submit</button>
+          
+    
       </form>
     </div>
   );

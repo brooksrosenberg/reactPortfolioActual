@@ -7,8 +7,7 @@
   }
   
   body {
-    background-color: whitesmoke;
-  }
+    background-image: linear-gradient(to right, rgb(191, 191, 191) , rgb(255, 255, 255))  }
 
 .resume{
     display: flex;
@@ -22,4 +21,10 @@
     border-radius: 20px;
     padding-bottom: 32px;
 
+}
+
+.button{
+  background: rgb(201, 201, 201);
+  padding: 5px;
+  color:black;
 }

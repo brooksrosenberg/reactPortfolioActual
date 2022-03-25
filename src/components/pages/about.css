@@ -7,8 +7,7 @@
   }
   
   body {
-    background-color: whitesmoke;
-  }
+    background-image: linear-gradient(to right, rgb(191, 191, 191) , rgb(255, 255, 255))  }
 
 .about{
     display: flex;
@@ -23,3 +22,6 @@
     padding-bottom: 32px;
 
 }
+#grad {
+    background-image: linear-gradient(to right, red , yellow);
+  }
