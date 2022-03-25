@@ -25,7 +25,7 @@ export default function Resume() {
               <p>APIs</p>
               <p>Node</p>
               <p>Express</p>
-              <p>MySQL, Sequepze</p>
+              <p>MySQL, Sequelize</p>
               <p>MongoDB, Mongoose</p>
               <p>REST</p>
              <p>GraphQL</p>

@@ -12,6 +12,8 @@ export default function Footer() {
     <a href='https://www.linkedin.com/in/brooks-rosenberg-b8376a142/'><img src={Linkedin} alt='My Linkedin'></img></a>
     
     <a href='https://mail.google.com/'><img src = {Icon} alt='Free Apple Mail Icon Download Png - Mail Icon PNG'></img></a>
+    <br></br>
+    <span>&copy; Made by Brooks Rosenberg</span>
     </footer>
   );
 }
